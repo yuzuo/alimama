@@ -48,9 +48,9 @@ MYSQL_CHARSET = 'utf8'
 #MYSQL_CHARSET = 'utf8'
 
 
-MAIL_HOST = "smtp.exmail.qq.com"
-MAIL_USER = "shihs@iphonele.com"
-MAIL_PASSWD = "yuzuo30"
+MAIL_HOST = "stmphost"
+MAIL_USER = "mailuser"
+MAIL_PASSWD = "mailpasswd"
 
 #BASE_MEDIA = "E:/WORKSPACE/Guang/analyze/media/upload"
 BASE_MEDIA = "../media/upload"
